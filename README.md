@@ -20,8 +20,9 @@ A Flutter mobile application that displays personal details, including a profile
 
 ## Screenshots
 
-<img src="assets/screenshots/Screenshot_1.png" width="300" alt="App Screenshot 1">
-<img src="assets/screenshots/Screenshot_2.png" width="300" alt="App Screenshot 2">
+![App Screenshot 1](https://github.com/victormystery/hngtask_1/blob/master/Screenshot_1.png)
+![App Screenshot 2](https://github.com/victormystery/hngtask_1/blob/master/Screenshot_2.png)
+
 
 ## Getting Started
 
