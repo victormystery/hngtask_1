@@ -84,7 +84,7 @@ If you'd like to contribute to this project, please follow these guidelines:
 3. Commit your changes and push to your forked repository:
 
    ```bash
-   git commit -am 'Add new feature'
+   git commit -m 'Add new feature'
    git push origin feature/my-feature
    ```
 
