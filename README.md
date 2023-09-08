@@ -69,7 +69,8 @@ Follow these instructions to get a copy of the project up and running on your lo
    ```bash
    flutter run
    ```
-
+## Test
+ - Appetize.io: (https://appetize.io/app/3zay4g4fu6l4pq5hptccychgre)
 ## Contributing
 
 If you'd like to contribute to this project, please follow these guidelines:
